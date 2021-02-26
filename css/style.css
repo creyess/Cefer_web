@@ -345,7 +345,7 @@ padding-right: 10px;
 	display: table;
 	height: 80vh;
 	padding-left: 10px;
-	text-aling: justify;
+	
 }
 
 .tcel {
@@ -358,6 +358,7 @@ padding-right: 10px;
 	width: 70%;
 	font-family: Roboto Slab;
 	font-weight:400;
+	text-aling: justify;
 }
 
 .aboutex h3{
